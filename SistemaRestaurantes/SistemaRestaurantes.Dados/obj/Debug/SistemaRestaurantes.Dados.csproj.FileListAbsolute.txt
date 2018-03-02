@@ -1,0 +1,17 @@
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\bin\Debug\SistemaRestaurantes.Dados.dll
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\bin\Debug\SistemaRestaurantes.Dados.pdb
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\obj\Debug\SistemaRestaurantes.Dados.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\obj\Debug\SistemaRestaurantes.Dados.dll
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\obj\Debug\SistemaRestaurantes.Dados.pdb
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\bin\Debug\SistemaRestaurantes.Dados.dll.config
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\bin\Debug\EntityFramework.dll
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\bin\Debug\EntityFramework.xml
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\obj\Debug\SistemaRestaurantes.Dados.csprojResolveAssemblyReference.cache
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\bin\Debug\SistemaRestaurantes.Entidades.dll
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\bin\Debug\SistemaRestaurantes.Entidades.pdb
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\bin\Debug\SistemaRestaurantes.Entidades.dll.config
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\obj\Debug\SistemaRestaurantes.Dados.Migrations.AlteracaoDeContextoDados.resources
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\obj\Debug\SistemaRestaurantes.Dados.csproj.GenerateResource.Cache
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Dados\obj\Debug\SistemaRestaurantes.Dados.Migrations.ChaveEstrangeiraRestaurante.resources

@@ -1,0 +1,10 @@
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bin\Debug\SistemaRestaurantes.Entidades.dll
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bin\Debug\SistemaRestaurantes.Entidades.pdb
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\obj\Debug\SistemaRestaurantes.Entidades.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\obj\Debug\SistemaRestaurantes.Entidades.dll
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\obj\Debug\SistemaRestaurantes.Entidades.pdb
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bin\Debug\SistemaRestaurantes.Entidades.dll.config
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bin\Debug\EntityFramework.dll
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bin\Debug\EntityFramework.xml
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bin\Debug\EntityFramework.SqlServer.xml
