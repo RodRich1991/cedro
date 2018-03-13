@@ -20,5 +20,6 @@ namespace SistemaRestaurantes.Site.Models
         {
         }
 
+        public System.Data.Entity.DbSet<SistemaRestaurantes.Entidades.Modelo.Restaurante> Restaurantes { get; set; }
     }
 }

@@ -8,3 +8,4 @@ D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bi
 D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bin\Debug\EntityFramework.SqlServer.dll
 D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bin\Debug\EntityFramework.xml
 D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documentos\GitHub\cedro2\SistemaRestaurantes\SistemaRestaurantes.Entidades\obj\Debug\SistemaRestaurantes.Entidades.csprojResolveAssemblyReference.cache
