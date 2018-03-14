@@ -121,7 +121,6 @@ D:\Documentos\GitHub\cedro2\SistemaRestaurantes\CedroBackend\bin\pt-br\System.We
 D:\Documentos\GitHub\cedro2\SistemaRestaurantes\CedroBackend\bin\pt-br\System.Web.WebPages.resources.dll
 D:\Documentos\GitHub\cedro2\SistemaRestaurantes\CedroBackend\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 D:\Documentos\GitHub\cedro2\SistemaRestaurantes\CedroBackend\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-D:\Documentos\GitHub\cedro2\SistemaRestaurantes\CedroBackend\obj\Debug\CedroBackend.csprojResolveAssemblyReference.cache
 D:\Documentos\GitHub\cedro2\SistemaRestaurantes\CedroBackend\obj\Debug\CedroBackend.Migrations.InitialCreate.resources
 D:\Documentos\GitHub\cedro2\SistemaRestaurantes\CedroBackend\obj\Debug\CedroBackend.Migrations.TabelaPrato.resources
 D:\Documentos\GitHub\cedro2\SistemaRestaurantes\CedroBackend\obj\Debug\CedroBackend.csproj.GenerateResource.Cache
