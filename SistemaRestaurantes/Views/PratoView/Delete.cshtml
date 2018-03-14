@@ -1,0 +1,39 @@
+﻿@model CedroBackend.Models.Prato
+
+@{
+    ViewBag.Title = "Deletar Prato";
+}
+
+<h2>Deletar Prato</h2>
+
+<h3>Tem certeza que deseja excluir este prato?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nome do Prato
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            Nome do Restaurante
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Restaurante.Nome)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Apagar" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar", "Index")
+        </div>
+    }
+</div>

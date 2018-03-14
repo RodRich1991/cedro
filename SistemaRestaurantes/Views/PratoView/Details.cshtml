@@ -1,0 +1,34 @@
+﻿@model CedroBackend.Models.Prato
+
+@{
+    ViewBag.Title = "Detalhes do Prato";
+}
+
+<h2>Detalhes do Prato</h2>
+
+<div>
+    <h4>@Html.DisplayFor(model => model.Nome)</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nome do Prato
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            Restaurante
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Restaurante.Nome)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.PratoId }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>
